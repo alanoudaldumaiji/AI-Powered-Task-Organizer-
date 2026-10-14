@@ -50,6 +50,8 @@ Project Type: Academic Team Project
 
 Field: IT Project Management
 
-## Documentation
+## Project Documentation
 
-The project report includes planning deliverables, diagrams, cost estimates, scheduling, and risk analysis.
+This repository provides an overview of the academic project's objectives, planning approach, and project management deliverables.
+
+The original team report is not publicly shared.
